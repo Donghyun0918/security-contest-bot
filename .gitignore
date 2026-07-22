@@ -1,0 +1,14 @@
+# 환경변수 (웹훅 URL이 들어가므로 절대 커밋하지 말 것)
+.env
+
+# 파이썬
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 에디터/OS
+.vscode/
+.idea/
+.DS_Store
